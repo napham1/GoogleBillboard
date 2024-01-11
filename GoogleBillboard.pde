@@ -3,10 +3,6 @@ public void setup()
 {            
     //your code here 
 }  
-public void draw()  
-{   
-	//not needed for this assignment
-}  
 public boolean isPrime(double dNum)  
 {   
     //your code here   
